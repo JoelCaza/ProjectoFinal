@@ -7,10 +7,14 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
-  <head>
-    <title>$Title$</title>
-  </head>
-  <body>
-  $END$
-  </body>
+<head>
+    <title>xd</title>
+</head>
+<body>
+<h1>Holaa</h1>
+<h2>Opciones</h2>
+<a href="solicitud.jsp">Solicitud</a>
+<a href="credito.jsp">Credito</a>
+
+</body>
 </html>

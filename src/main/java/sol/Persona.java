@@ -1,8 +1,12 @@
+package sol;
+
 public class Persona {
     private String nombre;
     private int edad;
     private String sexo;
     private double sueldoMensual;
+
+
     public Persona() {
 
     }
@@ -11,7 +15,9 @@ public class Persona {
         this.edad = edad;
         this.sexo = sexo;
         this.sueldoMensual = sueldoMensual;
+
     }
+
 
     public String getNombre() {
         return nombre;
@@ -44,5 +50,8 @@ public class Persona {
     public void setSueldoMensual(double sueldoMensual) {
         this.sueldoMensual = sueldoMensual;
     }
+
+
+
 }
 
